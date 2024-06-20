@@ -73,9 +73,12 @@ Try creating a simple README with a few headings using the `#` syntax (e.g. `# M
 
 Adding multiple `#` characters sequentially will decrease the heading level (e.g. `#` for heading, `##` for sub-heading, `###` for sub-sub-heading, etc). 
 
+> <img src="assets/sample_readme_edit.png" width=50%>
+> <img src="assets/sample_readme_display.png" width=50%>
+
 When you've completed editing, you can commit your changes by clicking the green `Commit changes...` button.
 
-> <img src="assets/edit_preview_commit_readme.png" width=70%>
+> <img src="assets/edit_preview_commit_readme.png">
 <!-- > ![The edit, preview, and commit buttons](assets/edit_preview_commit_readme.png) -->
 
 > [!TIP]
