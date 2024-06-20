@@ -9,11 +9,11 @@ Take some time to fill out the information on your GitHub profile, so that it lo
 
 1. Change your profile picture from the default icon. This can be a picture of you, but doesn't have to be.
 2. You can use the `Edit profile` button to fill out any information you are comfortable sharing.  
-2. You can add links to your profiles on other websites using the `Edit profile` button.
+2. You can also add links to your profiles on other websites (e.g LinkedIn) using the `Edit profile` button.
 
 ## 2. Clean Up Your Old Repositories
 
-If you are providing a GitHub link as part of your Resume/CV, it is a good idea to do some housecleaning on your GitHub repositories.
+If you are providing a GitHub link as part of your Resume/CV, it may be a good idea to do some housecleaning on your GitHub repositories.
 
 As of 2019, GitHub allows you to have *unlimited* private repositories (in the past, you were limited to a small number of private repos with an unpaid account).
 
@@ -21,7 +21,7 @@ This means you can keep any repository which you don't want someone browsing thr
 
 ### 2.1 Creating Private Repositories
 
-You can mark a repository as private when you create it:
+When creating a repository, there is an option to keep the repository private:
 
 > <img src="assets/private_repo.png" width=50%>
 <!-- > ![Creating a private repository](assets/private_repo.png) -->
@@ -45,7 +45,9 @@ in the repository Settings.
 
 ## 3. Add `README.md`s To Your Public Repositories
 
-A `README.md` file is a Markdown document which can serve as an introduction to your repository/project. The `.md` file extension indicates that the file is written in the Markdown syntax (if you use RMarkdown, you may already be familiar with some of the Markdown syntax). Although you can also create a `README.txt` for a plain text file. I would recommend making a `README.md` file for any projects uploaded to GitHub, as GitHub will automatically display the Markdown formatting for a `README.md` in the root directory, which looks much nicer than plain text. 
+A `README.md` file is a Markdown document which can serve as an introduction to your repository/project. The `.md` file extension indicates that the file is written in the Markdown syntax (if you use RMarkdown, you may already be familiar with some of the Markdown syntax, but GitHub uses a slightly different flavor). 
+
+Although you can also create a `README.txt` plain text file. I would recommend making a `README.md` file for any projects uploaded to GitHub, as GitHub will automatically display the Markdown formatting for a `README.md` in the root directory, which looks much nicer than plain text. 
 
 Markdown is a relatively simple syntax to learn, but has quite a bit of useful functionality. You can create headings/sections, add bulleted or numbered lists, display blocks of code, embed images, and more. 
 
@@ -65,7 +67,13 @@ If you've already created a README.md in your repository, you can edit it by cli
 > <img src="assets/readme_edit_button.png" width=70%>
 <!-- > ![The pencil button for editing an existing README](assets/readme_edit_button.png) -->
 
-After creating or editing your README, you should be presented with GitHub's file editor, which allows you to wuickly edit and preview your README by switching between the "Edit" and "Preview" tabs on the editor. When you've completed editing, you can commit your changes by clicking the green `Commit changes...` button.
+After creating or editing your README, you should be presented with GitHub's file editor, which allows you to wuickly edit and preview your README by switching between the "Edit" and "Preview" tabs on the editor. 
+
+Try creating a simple README with a few headings using the `#` syntax (e.g. `# My Heading`). 
+
+Adding multiple `#` characters sequentially will decrease the heading level (e.g. `#` for heading, `##` for sub-heading, `###` for sub-sub-heading, etc). 
+
+When you've completed editing, you can commit your changes by clicking the green `Commit changes...` button.
 
 > <img src="assets/edit_preview_commit_readme.png" width=70%>
 <!-- > ![The edit, preview, and commit buttons](assets/edit_preview_commit_readme.png) -->
